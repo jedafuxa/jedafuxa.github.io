@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://jedafuxa.github.io/sitemap/sitemap_index.jedafuxa
+Sitemap: https://jedafuxa.github.io/Gvd/sitemap_index.jedafuxa
+Sitemap: https://jedafuxa.github.io/gmn/sitemap_index.jedafuxa
+Sitemap: https://jedafuxa.github.io/jae/sitemap_index.jedafuxa
+Sitemap: https://jedafuxa.github.io/CPi/sitemap_index.jedafuxa
+Sitemap: https://jedafuxa.github.io/iFo/sitemap_index.jedafuxa
+Sitemap: https://jedafuxa.github.io/tLE/sitemap_index.jedafuxa
+Sitemap: https://jedafuxa.github.io/BMw/sitemap_index.jedafuxa
+Sitemap: https://jedafuxa.github.io/RxS/sitemap_index.jedafuxa
+Sitemap: https://jedafuxa.github.io/UYs/sitemap_index.jedafuxa
+Sitemap: https://jedafuxa.github.io/nOp/sitemap_index.jedafuxa
+Sitemap: https://jedafuxa.github.io/idE/sitemap_index.jedafuxa
+Sitemap: https://jedafuxa.github.io/BSv/sitemap_index.jedafuxa
+Sitemap: https://jedafuxa.github.io/joy/sitemap_index.jedafuxa
+Sitemap: https://jedafuxa.github.io/COG/sitemap_index.jedafuxa
+Sitemap: https://jedafuxa.github.io/fdp/sitemap_index.jedafuxa
+Sitemap: https://jedafuxa.github.io/Jkq/sitemap_index.jedafuxa
+Sitemap: https://jedafuxa.github.io/usd/sitemap_index.jedafuxa
+Sitemap: https://jedafuxa.github.io/Klg/sitemap_index.jedafuxa
+Sitemap: https://jedafuxa.github.io/uPE/sitemap_index.jedafuxa
+Sitemap: https://jedafuxa.github.io/eOW/sitemap_index.jedafuxa
